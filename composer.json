@@ -1,9 +1,17 @@
 {
-    "name": "cakephp/app",
-    "description": "CakePHP skeleton app",
-    "homepage": "https://cakephp.org",
+    "name": "agnivohneb/navcomm",
+    "description": "Training tools for Naval Communicators in the Royal Canadian Navy",
+    "homepage": "http://navcomm.hoovinga.ca",
     "type": "project",
     "license": "MIT",
+    "authors": [
+        {
+            "name": "Ben Hovinga",
+            "email": "ben@hovinga.ca",
+            "homepage": "http://ben.hovinga.ca/",
+            "role": "Developer"
+        }
+    ]
     "require": {
         "php": ">=5.6",
         "cakephp/cakephp": "3.5.*",
